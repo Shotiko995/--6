@@ -1,0 +1,163 @@
+*{
+    margin:0%;
+    padding: 0%;
+}
+body{
+background-color: gray;
+
+}
+h3{
+
+width: 32px;
+height: 13px;
+margin-top:1px ;
+margin-left:137px ;
+margin-bottom:42px ;
+margin-right:35px ;
+display:inline ;
+
+}
+#surati{
+width: 32px;
+height: 32px;
+display: inline;
+margin-top:21px ;
+margin-left:22px ;
+margin-bottom:33px ;
+margin-right:9px ;
+border-radius: 20px;
+}
+.trend{
+color: black;
+margin-top:42px ;
+margin-left:137px ;
+margin-bottom:27px ;
+margin-right:1183px ;
+}
+.cards{
+width: 350px;
+height: 350px;
+margin-top:42px ;
+margin-left:20px ;
+margin-bottom:57px ;
+margin-right:40px ;
+border-bottom-right-radius: 5px;
+border-bottom-left-radius: 5px;
+background-color: #FFFFFF;
+position: relative;
+display: inline-block;
+}
+.xedi{
+width: 350px;
+height: 186px;
+
+}
+p{
+margin-top:10px ;
+margin-left:37px ;
+margin-bottom:20px ;
+margin-right:87px ;
+font-size: 18px;
+
+}
+#sps{
+position: absolute;
+top: 32px;
+left: 41px;
+font-weight: 700;
+font-size: 20px;
+color: #FFFFFF;
+}
+.card{
+width: 350px;
+height: 350px;
+margin-top:42px ;
+margin-left:20px ;
+margin-bottom:57px ;
+margin-right:40px ;
+border-bottom-right-radius: 5px;
+border-bottom-left-radius: 5px;
+background-color: #FFFFFF;
+position: relative;
+display: inline-block;
+
+}
+.xidi{
+width: 350px;
+height: 186px;
+}
+.car{
+width: 350px;
+height: 350px;
+margin-top:42px ;
+margin-left:40px ;
+margin-bottom:57px ;
+margin-right:20px ;
+border-bottom-right-radius: 5px;
+border-bottom-left-radius: 5px;
+background-color: #FFFFFF;
+position: relative;
+display:inline-block;
+}
+.xid{
+width: 350px;
+height: 186px;
+}
+.satauri{
+color:#000000;
+font-size:196;
+margin-left: 80px;
+margin-bottom: 30px;
+}
+.xidi2{
+width: 758px;
+height: 430px;
+margin-left: 80px;
+margin-bottom: 42px;
+display: inline-block;
+}
+.patara{
+width: 362px;
+height: 212px;
+margin-top: 90px;
+border-radius: 5px;
+margin-bottom: 42px;
+margin-left: 45px;
+display: inline-block;
+
+}
+.conteiner{
+    height:800px;
+    width: 800px;
+    display: inline-block;
+}
+.conteiner2{
+    width: 100px;
+    height:100px ;
+    display: inline-block;
+}
+.shavi{
+width: 1440px;
+height: 300px;
+background-color: #243043;
+margin-top: 36px;
+display: inline-block;
+}
+.list{
+width: 33px;
+height: 14px;
+margin-top:59px ;
+margin-bottom:10px ;
+margin-left: 137px;
+margin-right:96px ;
+display:inline-block;
+color: #818687;
+}
+.github{
+width: 38px;
+height: 40px;
+margin-bottom:700px ;
+margin-left:100px ;
+margin-right:138px ;
+}
+
